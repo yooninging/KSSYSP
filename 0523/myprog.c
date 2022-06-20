@@ -1,0 +1,1 @@
+-bash: ./myprog.c: Permission denied
